@@ -37,11 +37,11 @@
 
 ### 3. Создание таблиц в DBeaver
 SQL-код был выполнен в редакторе DBeaver. Файл со скриптом лежит по [ссылке](creating_tables_sql.sql).
-![tables_created.png](screenshots\tables_created.png)
+![tables_created.png](screenshots/tables_created.png)
 
 ### 4. Загрузка данных в таблицы
 Загрузку сделала через интерфейс DBeaver (импорт csv).
-![transaction.png](screenshots\transaction.png)
-![item.png](screenshots\item.png)
-![customer.png](screenshots\customer.png)
-![region.png](screenshots\region.png)
+![transaction.png](screenshots/transaction.png)
+![item.png](screenshots/item.png)
+![customer.png](screenshots/customer.png)
+![region.png](screenshots/region.png)
